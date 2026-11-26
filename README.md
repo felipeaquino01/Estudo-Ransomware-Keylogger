@@ -7,18 +7,16 @@ O objetivo central é dissecar o ciclo de vida dessas ameaças para compreender 
 
 
    Índice
-Análise Técnica: Ransomware
-  Ciclo de Vida do Ataque
-  Mecanismos Criptográficos Utilizados
+Análise Técnica: Ransomware;
+  Ciclo de Vida do Ataque, Mecanismos Criptográficos Utilizados
   
-Análise Técnica: Keylogger
-  Como Funciona a Captura de Entradas
-  Vetores de Exfiltração de Dados
+Análise Técnica: Keylogger;
+  Como Funciona a Captura de Entradas, Vetores de Exfiltração de Dados
   
 Fator Humano e Engenharia Social
-Estratégias de Mitigação e Defesa em Camadas
-  Proteção contra Ransomware
-  Proteção contra Keyloggers
+
+Estratégias de Mitigação e Defesa em Camadas;
+  Proteção contra Ransomware, Proteção contra Keyloggers
   
 Conclusão e Aprendizados
 Referências e Materiais de Apoio
